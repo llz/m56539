@@ -4,7 +4,7 @@
  *
  * Use it to configure core behavior of Cake.
  *
- * PHP 5
+ * PHP 5 123123
  *
  * CakePHP(tm) : Rapid Development Framework (http://cakephp.org)
  * Copyright 2005-2012, Cake Software Foundation, Inc. (http://cakefoundation.org)
